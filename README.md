@@ -28,7 +28,7 @@ Add the following to your `plugins/init.lua` (or equivalent) file:
   event = 'BufReadPost', -- Load when a buffer is read
   ft = { 'holyc', 'doldoc' }, -- Only load for these filetypes
   config = function()
-    require('holyc_formatter').setup()
+    require('holyc-formatter').setup()
   end,
 }
 ```
@@ -45,7 +45,7 @@ use {
   event = 'BufReadPost',
   ft = { 'holyc', 'doldoc' },
   config = function()
-    require('holyc_formatter').setup()
+    require('holyc-formatter').setup()
   end,
 }
 ```
