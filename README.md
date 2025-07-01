@@ -9,7 +9,7 @@
 - Displays `[🖼️Image]` or `[📦Model]` virtual text indicators next to the relevant lines.
 - Includes filetype detection for `.hc`, `.HC`, `.dd`, `.DD` extensions.
 
-## ⚙️ Installation
+## 📦 Installation
 >[!IMPORTANT]
 >This plugin is primarily designed and optimized for my specific Neovim setup and development environments. It was built with `lazy.nvim` in mind.
 >
