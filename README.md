@@ -1,5 +1,6 @@
 <h1 align="center">holyc-formatter.nvim</h1>
 
+<p align="center">This program is released under GPL-3.0-or-later.</p>
 <p align="center">A Neovim plugin for providing a formatted view of HolyC (`.HC`) and DolDoc (`.DD`) files, similar to TempleOS's native editor.</p>
 
 ## 🌟 Features
